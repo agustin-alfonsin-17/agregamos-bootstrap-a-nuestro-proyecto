@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: aqua;
+    background-color: darkblue;
+}
+h4{
+    font-size: 20px;
+    margin: 0;
+}
+
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: brown;
+    padding: 3px;
+    margin: 2px;
+    text-align: center;
+    color: yellow;
+}
